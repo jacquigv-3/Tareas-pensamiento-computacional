@@ -26,22 +26,15 @@ Descripción: Implementación de funciones personalizadas.
 ### Tarea 3: Problemas de Repaso
 Descripción: Ejercicios integradores para reforzar conceptos.
 - [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_3_Problemas_de_Repaso.ipynb)
-
 ### Tarea 4: Programas que utilizan listas
 Descripción: Manipulación y operaciones con listas.
-- [Código](https://github.com/tu-usuario/tu-repo-tarea4)
+- [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_4_Programas_que_utilizan_listas.ipynb)
 
 ### Tarea 5: Programas que utilizan Matrices
 Descripción: Operaciones con matrices usando bibliotecas como NumPy.
-- [Código](https://github.com/tu-usuario/tu-repo-tarea5)
+- [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_5_Programas_que_utilizan_Matrices.ipynb)
 
 ### Tarea 6: Programas que crean Matrices
 Descripción: Generación de matrices desde cero.
 - [Código](https://github.com/tu-usuario/tu-repo-tarea6)
 
----
-
-## 🛠 Habilidades Técnicas
-- **Lenguajes:** Python
-- **Herramientas:** Pandas, NumPy, Matplotlib
-- **Matemáticas:** Álgebra lineal, Estadística, Cálculo
