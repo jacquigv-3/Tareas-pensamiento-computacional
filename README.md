@@ -17,15 +17,15 @@
 
 ### Tarea 1: Programas utilizando funciones predefinidas
 Descripción: Uso de funciones integradas de Python para resolver problemas.
-- [Código](https://github.com/jacquigv-3/Tarea-1-Funciones-predefinidas/blob/main/Tarea_1_Programas_utilizando_funciones_predefinidas.ipynb)
+- [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_1_Programas_utilizando_funciones_predefinidas.ipynb)
 
 ### Tarea 2: Problemas que Utilizan Funciones
 Descripción: Implementación de funciones personalizadas.
-- [Código](https://github.com/jacquigv-3/Tarea-2-Problemas-que-Utilizan-Funciones/blob/main/Tarea_2_Problemas_que_Utilizan_Funciones.ipynb)
+- [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_2_Problemas_que_Utilizan_Funciones.ipynb)
 
 ### Tarea 3: Problemas de Repaso
 Descripción: Ejercicios integradores para reforzar conceptos.
-- [Código](https://github.com/tu-usuario/tu-repo-tarea3)
+- [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_3_Problemas_de_Repaso.ipynb)
 
 ### Tarea 4: Programas que utilizan listas
 Descripción: Manipulación y operaciones con listas.
