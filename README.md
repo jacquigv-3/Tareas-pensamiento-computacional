@@ -36,5 +36,5 @@ Descripción: Creación y operaciones con matrices.
 
 ### Tarea 6: Explicación de código: Creación de matrices
 Descripción: Explicación de código de matríces.
-- [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_6_Programas_que_crean_Matrices.ipynb)
+- [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_6_Programas_que_crean_Matrices%20(1).ipynb)
 
