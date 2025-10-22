@@ -9,7 +9,7 @@
 3. Tarea 3: Problemas de repaso
 4. Tarea 4: Programas con listas
 5. Tarea 5: Programas con matrices
-6. Tarea 6: Creación de matrices
+6. Tarea 6: Explicación de código: Creación de matrices
 
 ---
 
@@ -31,10 +31,10 @@ Descripción: Manipulación y operaciones con listas.
 - [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_4_Programas_que_utilizan_listas.ipynb)
 
 ### Tarea 5: Programas que utilizan Matrices
-Descripción: Operaciones con matrices usando bibliotecas como NumPy.
+Descripción: Creación y operaciones con matrices.
 - [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_5_Programas_que_utilizan_Matrices.ipynb)
 
-### Tarea 6: Programas que crean Matrices
-Descripción: Generación de matrices desde cero.
-- [Código](https://github.com/tu-usuario/tu-repo-tarea6)
+### Tarea 6: Explicación de código: Creación de matrices
+Descripción: Explicación de código de matríces.
+- [Código](https://github.com/jacquigv-3/Tareas-pensamiento-computacional/blob/main/Tarea_6_Programas_que_crean_Matrices.ipynb)
 
